@@ -1,0 +1,9 @@
+c:\users\green\documents\visual studio 2015\Projects\FileReader\FileReader\bin\Debug\FileReader.exe.config
+c:\users\green\documents\visual studio 2015\Projects\FileReader\FileReader\bin\Debug\FileReader.exe
+c:\users\green\documents\visual studio 2015\Projects\FileReader\FileReader\bin\Debug\FileReader.pdb
+c:\users\green\documents\visual studio 2015\Projects\FileReader\FileReader\obj\Debug\FileReader.csprojResolveAssemblyReference.cache
+c:\users\green\documents\visual studio 2015\Projects\FileReader\FileReader\obj\Debug\FileReader.Form1.resources
+c:\users\green\documents\visual studio 2015\Projects\FileReader\FileReader\obj\Debug\FileReader.Properties.Resources.resources
+c:\users\green\documents\visual studio 2015\Projects\FileReader\FileReader\obj\Debug\FileReader.csproj.GenerateResource.Cache
+c:\users\green\documents\visual studio 2015\Projects\FileReader\FileReader\obj\Debug\FileReader.exe
+c:\users\green\documents\visual studio 2015\Projects\FileReader\FileReader\obj\Debug\FileReader.pdb

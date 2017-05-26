@@ -1,0 +1,33 @@
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\lab1.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\lab2.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\lab3.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\lab1.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\lab2.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\lab3.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\lab2dz.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\lab2dz.pdb
+C:\Users\PC\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\PC\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\PC\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\PC\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\PC\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\PC\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\FileReader.exe
+C:\Users\PC\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\lab1.dll
+C:\Users\PC\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\lab2.dll
+C:\Users\PC\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\lab2dz.dll
+C:\Users\PC\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\timerEvent.exe
+C:\Users\PC\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\lab1.pdb
+C:\Users\PC\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\lab2dz.pdb
+C:\Users\PC\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\lab2.pdb
+C:\Users\PC\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\FileReader.pdb
+C:\Users\PC\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\timerEvent.pdb
+E:\С#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\С#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\С#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

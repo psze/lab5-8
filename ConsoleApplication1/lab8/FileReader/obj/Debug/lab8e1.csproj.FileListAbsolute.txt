@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\ConsoleApplication1\lab8\FileReader\bin\Debug\FileReader.exe.config
+C:\Users\PC\Desktop\ConsoleApplication1\lab8\FileReader\bin\Debug\FileReader.exe
+C:\Users\PC\Desktop\ConsoleApplication1\lab8\FileReader\bin\Debug\FileReader.pdb
+C:\Users\PC\Desktop\ConsoleApplication1\lab8\FileReader\obj\Debug\lab8e1.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\ConsoleApplication1\lab8\FileReader\obj\Debug\FileReader.Form1.resources
+C:\Users\PC\Desktop\ConsoleApplication1\lab8\FileReader\obj\Debug\FileReader.Properties.Resources.resources
+C:\Users\PC\Desktop\ConsoleApplication1\lab8\FileReader\obj\Debug\lab8e1.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\ConsoleApplication1\lab8\FileReader\obj\Debug\FileReader.exe
+C:\Users\PC\Desktop\ConsoleApplication1\lab8\FileReader\obj\Debug\FileReader.pdb

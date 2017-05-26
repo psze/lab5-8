@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\Visual Studio 2015\Projects\ConsoleApplication1\lab2dz\bin\Debug\lab2dz.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\ConsoleApplication1\lab2dz\bin\Debug\lab2dz.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\ConsoleApplication1\lab2dz\obj\Debug\lab7.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2015\Projects\ConsoleApplication1\lab2dz\obj\Debug\lab2dz.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\ConsoleApplication1\lab2dz\obj\Debug\lab2dz.pdb
